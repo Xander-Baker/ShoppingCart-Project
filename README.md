@@ -1,6 +1,4 @@
 # ShoppingCart-Project
-
-<h1>Shopping Cart PHP project</h1>
 <h2>This is a small project demonstrating a functional shopping cart using PHP and SQL.</h2>
 
 <h1>Main Page</h1>
